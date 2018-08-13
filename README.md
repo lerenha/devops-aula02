@@ -1,5 +1,5 @@
 # devops-aula02
-
 #Johnny Depp
-#Adam Sandler
+#Will Smith
 #Tom Cruise
+#Adam Sandler
